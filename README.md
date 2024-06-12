@@ -6,7 +6,7 @@
 Neste projeto, são explorados os dados da pesquisa salarial  [Ask A Manager Salary Survey 2021](https://www.kaggle.com/datasets/masoomaalghawas/ask-a-manager-salary-survey-2021). Para tal, foram realizados o processo de  limpeza, análise e visualização da base de dados utilizando uma combinação de **Python**, **Excel**, **Power Query**, **SQL** e **Power BI**. O objetivo final é fornecer insights sobre **tendências salariais**, nos **Estados Unidos**, buscando entender os fatores que influenciam os rendimentos em várias **indústrias**, **regiões** e **funções** no país.
 
 
-### 🎯 Objetivo do Projeto:
+### 🎯 Objetivos:
 
 O objetivo deste projeto é realizar o processo de limpeza de dados, análise da base de dados e desenvolvimento de um painel interativo no Power BI que permita analisar as informações salariais. As análises incluem as seguintes métricas:
 
@@ -25,7 +25,7 @@ O objetivo deste projeto é realizar o processo de limpeza de dados, análise da
 • **Qual é a indústria com o maior número de mulheres entrevistadas?**
 
 
-### 🛢 Sobre a base de dados
+### 🛢 Sobre a base de dados:
 
 **Ask A Manager** é um site que trata de questões relacionadas ao ambiente de trabalho em diversps países. No início de 2021, o blog publicou uma Pesquisa Salarial de Gerentes, onde os respondentes compartilharam, de maneira anonima seus salários,área de atuação, cargo atual, entre outros detalhes biográficos. 
 
