@@ -1,40 +1,42 @@
 
-## Ask A Manager Salary Survey 2021  📊
+## Ask A Manager Salary Survey 2021 📊
 
 ### Visão Geral do Projeto
 
-Bem-vindo ao projeto "Analisando Dados de Salário", onde exploramos os dados da pesquisa salarial [Ask A Manager Salary Survey 2021] (https://www.kaggle.com/datasets/masoomaalghawas/ask-a-manager-salary-survey-2021). Este projeto tem como objetivo limpar, analisar 
-e visualizar o conjunto de dados utilizando uma combinação de Python, Excel, Power Query, SQL e Power BI. O objetivo final é fornecer 
-informações sobre tendências salariais, ajudando os usuários a entender os fatores que influenciam os rendimentos em várias indústrias e funções.
+Neste projeto, são explorados os dados da pesquisa salarial Ask A Manager Salary Survey 2021. Neste projeto, foram realizados o processo de  limpeza, analise e visualização do conjunto de dados utilizando uma combinação de Python, Excel, Power Query, SQL e Power BI. O objetivo final é fornecer insights sobre tendências salariais, ajudando os usuários a entender os fatores que influenciam os rendimentos em várias indústrias, regiões e funções.
 
-#### 🎯 Objetivo do projeto:
+### 🛢 Sobre a base de dados
 
-O objetivo deste projeto é realizar o processo de data cleaning através analisar a base de dados, primei de controle interativo no Power BI que permita analisar as vendas da empresa AdventureWorks. As análises incluem as seguintes métricas:
+Ask A Manager é um site que trata de questões relacionadas ao ambiente de trabalho. No início de 2021, o blog publicou uma Pesquisa Salarial de Gerentes, onde os respondentes compartilharam, de maneira anonima seus salários,área de atuação, cargo atual, entre outros detalhes biográficos. 
 
-•  Qual a de entrevistados? Qual a demografia de homens e mulheres?
+### 🎯 Objetivo do Projeto:
 
-• Quais as TOP 10 industrias americanas em relação ao salário médio anual de seus funcionários?
+O objetivo deste projeto é realizar o processo de limpeza de dados, análise da base de dados e desenvolvimento de um painel interativo no Power BI que permita analisar as informações salariais. As análises incluem as seguintes métricas:
 
-•  Como a média de salário varia por industria e região para as 3 indústrias com maiores salários médios anuais?
+•Qual é o número total de entrevistados? Qual é a demografia de homens e mulheres?
 
-•Como a média de salário anual varia em relação ao nível de educaçao dos entrevistados?
+•Quais são as TOP 10 indústrias americanas em relação ao salário médio anual de seus funcionários?
 
-• Como a Média de salário por anos na área afeta os salários?
+•Como a média de salário varia por indústria e região para as 3 indústrias com maiores salários médios anuais?
 
-• Qual a Indústria com o maior número de homens entrevistados?
+•Como a média de salário anual varia em relação ao nível de educação dos entrevistados?
 
-• Qual a Indústria com o maior número de mulheres entrevistadas?
+•Como a média de salário por anos de experiência na área afeta os rendimentos?
 
+•Qual é a indústria com o maior número de homens entrevistados?
 
-#### 🛠️ Ferramentas:
+•Qual é a indústria com o maior número de mulheres entrevistadas?
 
-•  Para a realização deste projeto, as seguintes ferramentas foram utilizadas:
+### 🛠️ Ferramentas:
 
-•  Limpeza de Dados: Utilizando Python, Excel e Power Query para limpar e pré-processar os dados, garantindo uma maior consistência.
+Para a realização deste projeto, as seguintes ferramentas foram utilizadas:
 
-•Análise de Dados: Utilizado SQL para realizar consultas aprofundadas e extrair padrões e insights significativos sobre a base de dados.
+Limpeza de Dados: Utilizando Python, Excel e Power Query para limpar e pré-processar os dados, garantindo maior consistência.
 
-•  Visualização de Dados: Utilizado o Power BI para visualizar as descobertas e tornar os dados facilmente acessíveis e compreensíveis.
+Análise de Dados: Utilizando SQL para realizar consultas aprofundadas e extrair padrões e insights significativos sobre a base de dados.
+
+Visualização de Dados: Utilizando Power BI para visualizar as descobertas e tornar os dados facilmente acessíveis e compreensíveis.
+
 
 #### Dashboard:
 ![Dashboard](https://github.com/RodrigoAislan/Analise_Ask_A_Manager-Salary_Survey_2021_Python_SQL_Ecxel_Power_BI/assets/172406590/ab1ed3ae-44bb-498d-902e-cae9438ced2f)
