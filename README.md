@@ -1,6 +1,8 @@
 
 ## Ask A Manager Salary Survey 2021 📊
 
+## Mais detalhes do passo a passo deste projeto estão descritos no [Medium](https://medium.com/@rodrigoaislaan/ask-a-manager-salary-survey-2021-uma-an%C3%A1lise-das-tend%C3%AAncias-salariais-nos-eua-f7b8488329e3)
+
 ### 📝 Visão Geral do Projeto
 
 Neste projeto, são explorados os dados da pesquisa salarial  [Ask A Manager Salary Survey 2021](https://www.kaggle.com/datasets/masoomaalghawas/ask-a-manager-salary-survey-2021). Para tal, foram realizados o processo de  limpeza, análise e visualização da base de dados utilizando uma combinação de **Python**, **Excel**, **Power Query**, **SQL** e **Power BI**. O objetivo final é fornecer insights sobre **tendências salariais**, nos **Estados Unidos**, buscando entender os fatores que influenciam os rendimentos em várias **indústrias**, **regiões** e **funções** no país.
